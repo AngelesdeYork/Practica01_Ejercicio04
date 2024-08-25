@@ -1,0 +1,6 @@
+/* styles.css */
+img {
+    width: 150px; /* Ajusta el ancho deseado */
+    height: 100px; /* Ajusta la altura deseada */
+    object-fit: cover; /* Asegura que las imágenes se ajusten bien sin distorsionarse */
+}
